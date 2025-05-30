@@ -18,7 +18,7 @@ const ProjectsSection: React.FC = () => {
   const projects: Project[] = [
     {
       id: 1,
-      title: "E-Commerce Dashboard",
+      title: "D:\project\images\e-commerce.jpeg",
       description: "Built an interactive Power BI dashboard for e-commerce sales analysis, showcasing key metrics like revenue, profit, customer trends, and product performance.",
       image: "e-commerce.jpeg",
       technologies: ["Power BI", "DAX", "Data Modeling"],
